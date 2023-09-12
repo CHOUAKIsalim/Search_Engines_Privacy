@@ -18,7 +18,9 @@ This directory contains Puppeteer-based crawlers designed to perform the followi
 **Launching a Crawler:**
 To initiate a crawler for a specific search engine, execute the following command:
 
+```bash
 $ node run_se.js 'search_engine_name'
+```
 
 Replace 'search_engine_name' with one of the following options: google, bing, ddg, startpage, or qwant.
 
