@@ -8,14 +8,14 @@ This repository contains the source code and data we used for understanding the 
 The crawling process entails initiating search queries, detecting search results and advertisements on the search engine results page, interacting with displayed advertisements, and accessing their landing URLs. For each crawling instance, our web driver captures the corresponding search query, displayed advertisements, and all network requests sent by the browser. Furthermore, we have developed mechanisms to detect tracking requests using the EasyPrivacy and EasyList tracking lists. Lastly, we evaluate instances of bounce tracking and UID smuggling upon clicking on advertisements, assessing the privacy implications of using different search engines.
 
 
-## Repository Structure
+# Repository Structure
 
 The repository is organized into four top-level directories:
 
-### 1. **Crawling System:** 
+## 1. **Crawling System:** 
 This directory contains Puppeteer-based crawlers designed to perform the following crawling process on each search engine: initiating search queries, detecting search results and advertisements on the search engine results page, interacting with one of the displayed advertisements, and accessing its landing URL. The Crawling System has been implemented using an object-oriented approach, with a dedicated crawler class for each supported search engine.
 
-**Launching a Crawler:**
+### Launching a Crawler:
 To initiate a crawler for a specific search engine, execute the following command:
 
 ```bash
@@ -24,7 +24,7 @@ $ node run_se.js 'search_engine_name'
 
 Replace 'search_engine_name' with one of the following options: google, bing, ddg, startpage, or qwant.
 
-**Output:**
+### Output:
 After each crawling iteration, a screenshot of the search engine's results page will be saved in the "screenshots/search_engine" directory. Additionally, the results file will be stored in the "files/" directory.
 
 
