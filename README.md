@@ -4,10 +4,6 @@
 This repository contains the source code and data we used for understanding the privacy properties of five popular search engines, namely Google, Bing, StartPage, DuckDuckGo, and Qwant. The description of the methodology and the results can be found on https://arxiv.org/abs/2308.15309. 
 
 
-
-The crawling process entails initiating search queries, detecting search results and advertisements on the search engine results page, interacting with displayed advertisements, and accessing their landing URLs. For each crawling instance, our web driver captures the corresponding search query, displayed advertisements, and all network requests sent by the browser. Furthermore, we have developed mechanisms to detect tracking requests using the EasyPrivacy and EasyList tracking lists. Lastly, we evaluate instances of bounce tracking and UID smuggling upon clicking on advertisements, assessing the privacy implications of using different search engines.
-
-
 # Repository Structure
 
 The repository is organized into four top-level directories:
