@@ -1,0 +1,10 @@
+\begin{tabular}{lllll}
+\toprule
+                                  Bing &                      Google &                               Ddg &                  Startpage &                  Qwant \\
+\midrule
+                 www.bing.com (100.0\%) &      www.google.com (82.7\%) & improving.duckduckgo.com (100.0\%) & www.startpage.com (100.0\%) & www.qwant.com (100.0\%) \\
+browser.pipe.aria.microsoft.com (0.0\%) &      play.google.com (8.7\%) &                                   &                            &                        \\
+                                       &        id.google.com (4.3\%) &                                   &                            &                        \\
+                                       & adservice.google.com (4.3\%) &                                   &                            &                        \\
+\bottomrule
+\end{tabular}

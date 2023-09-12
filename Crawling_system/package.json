@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discoveryjs/json-ext": "^0.5.7",
+    "node-pickle": "^0.0.2",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^14.4.1",
+    "puppeteer-extra": "^3.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.10.1",
+    "request-promise-native": "^1.0.9"
+  }
+}

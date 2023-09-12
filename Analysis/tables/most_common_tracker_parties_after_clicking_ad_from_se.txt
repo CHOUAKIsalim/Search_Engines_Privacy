@@ -1,0 +1,10 @@
+\begin{tabular}{lllll}
+\toprule
+                   Bing &                             Google &                              Ddg &               Startpage &                 Qwant \\
+\midrule
+   www.bing.com (99.0\%) &             www.google.com (58.8\%) & improving.duckduckgo.com (76.3\%) & www.google.com (100.0\%) & www.qwant.com (56.0\%) \\
+t23.intelliad.de (0.5\%) & encrypted-tbn0.gstatic.com (34.0\%) &           duckduckgo.com (23.7\%) &                         &  www.bing.com (44.0\%) \\
+  1045.netrk.net (0.5\%) &   lh5.googleusercontent.com (5.4\%) &                                  &                         &                       \\
+                        &                 i.ytimg.com (1.2\%) &                                  &                         &                       \\
+\bottomrule
+\end{tabular}

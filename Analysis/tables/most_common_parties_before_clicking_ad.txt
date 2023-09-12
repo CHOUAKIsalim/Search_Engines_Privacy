@@ -1,0 +1,20 @@
+\begin{tabular}{lllll}
+\toprule
+                                          Bing &                            Google &                                     Ddg &                  Startpage &                 Qwant \\
+\midrule
+                            r.bing.com (59.6\%) &            www.google.com (64.3\%) &                  duckduckgo.com (59.7\%) & csp.withgoogle.com (52.1\%) & www.qwant.com (84.4\%) \\
+                          www.bing.com (37.9\%) &           www.gstatic.com (20.9\%) &        improving.duckduckgo.com (21.0\%) &  www.startpage.com (47.9\%) &   s.qwant.com (11.0\%) \\
+t.ssl.ak.dynamic.tiles.virtualearth.net (0.8\%) &            play.google.com (2.7\%) & external-content.duckduckgo.com (17.9\%) &                            &   s1.qwant.com (2.3\%) \\
+              login.microsoftonline.com (0.7\%) &          fonts.gstatic.com (2.6\%) &             links.duckduckgo.com (1.4\%) &                            &   s2.qwant.com (2.2\%) \\
+                         login.live.com (0.3\%) &            apis.google.com (2.6\%) &                                         &                            &    f.qwant.com (0.0\%) \\
+                             4.bing.com (0.3\%) & encrypted-tbn0.gstatic.com (2.4\%) &                                         &                            &                       \\
+            3pcookiecheck.azureedge.net (0.3\%) &         consent.google.com (1.3\%) &                                         &                            &                       \\
+                   dev.virtualearth.net (0.1\%) &              id.google.com (1.3\%) &                                         &                            &                       \\
+        browser.pipe.aria.microsoft.com (0.0\%) &       adservice.google.com (1.3\%) &                                         &                            &                       \\
+                                               &  lh5.googleusercontent.com (0.3\%) &                                         &                            &                       \\
+                                               & encrypted-tbn2.gstatic.com (0.1\%) &                                         &                            &                       \\
+                                               & encrypted-tbn1.gstatic.com (0.1\%) &                                         &                            &                       \\
+                                               &  lh3.googleusercontent.com (0.0\%) &                                         &                            &                       \\
+                                               & encrypted-tbn3.gstatic.com (0.0\%) &                                         &                            &                       \\
+\bottomrule
+\end{tabular}

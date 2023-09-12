@@ -1,0 +1,20 @@
+\begin{tabular}{lllll}
+\toprule
+                              Bing &                             Google &                                Ddg &                              Startpage &                              Qwant \\
+\midrule
+             m.media-amazon (7.4\%) &            www.maccosmetics (7.0\%) &             m.media-amazon (15.8\%) &                  csp.withgoogle (8.1\%) &             m.media-amazon (14.3\%) \\
+                    www.but (4.3\%) &                 cdn.shopify (5.7\%) & images-eu.ssl-images-amazon (4.6\%) &            www.appliancesonline (5.9\%) & images-eu.ssl-images-amazon (4.1\%) \\
+                cdn.shopify (2.6\%) &                 www.sephora (3.1\%) &                 cdn.shopify (3.6\%) &                     cdn.shopify (4.7\%) &                  www.qgamez (3.9\%) \\
+                  media.but (2.5\%) &         sheinsz.ltwebstatic (2.8\%) &               www.cdiscount (2.4\%) &                      www.google (3.9\%) &               www.cdiscount (3.5\%) \\
+              www.micstatic (2.4\%) &             cdn-fsly.yottaa (2.8\%) &               fls-eu.amazon (2.2\%) &            www.google-analytics (2.4\%) &               fls-eu.amazon (3.0\%) \\
+images-eu.ssl-images-amazon (2.3\%) & static.appliancesconnection (2.7\%) &             www.superbeaute (2.1\%) &                  m.media-amazon (1.9\%) &                static.thcdn (2.4\%) \\
+        sheinsz.ltwebstatic (2.2\%) &             www.itcosmetics (2.6\%) &   components.messe-muenchen (1.9\%) &                www.maccosmetics (1.8\%) &       www.pinnaclecosmetics (2.4\%) \\
+                 www.google (1.9\%) &                  www.google (2.4\%) &                  www.google (1.8\%) &            www.googletagmanager (1.4\%) &                  www.amazon (2.1\%) \\
+      www.stores-et-rideaux (1.8\%) &                    fr.shein (2.2\%) &                www.marketoy (1.7\%) &         litb-cgis.rightinthebox (1.2\%) &            www.blancheporte (1.9\%) \\
+                   fr.shein (1.5\%) &              m.media-amazon (1.9\%) &                    img.poki (1.6\%) &              www.hasnacosmetics (1.1\%) &                    img.poki (1.6\%) \\
+              www.boulanger (1.5\%) &          static.parastorage (1.6\%) &        www.nakedandthriving (1.5\%) & cmall-static-resource.harborcdn (1.0\%) &                  www.google (1.5\%) \\
+            img.ltwebstatic (1.4\%) &                  www.nocibe (1.5\%) &                  www.amazon (1.3\%) &                analytics.tiktok (1.0\%) &        static.bonprixsecure (1.5\%) \\
+                   www.bing (1.3\%) &             www.srmdata-eur (1.4\%) &               aax-eu.amazon (1.2\%) &              www.circusclothing (1.0\%) &                     www.but (1.4\%) \\
+           analytics.tiktok (1.3\%) &              csp.withgoogle (1.4\%) &            www.armanibeauty (1.2\%) &               fr.justfashionnow (0.9\%) &               aax-eu.amazon (1.2\%) \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,43 @@
+\begin{tabular}{lll}
+\toprule
+Search engine &                                                                                                                         Redirection chain & Frequency \\
+\midrule
+         Bing &                                                                                                                        bing - DESTINATION &     79.0\% \\
+         Bing &                                                                                    bing - ad.doubleclick.net - www.bing.com - DESTINATION &     15.5\% \\
+         Bing &                                                                                                   bing - ad.doubleclick.net - DESTINATION &      3.9\% \\
+         Bing &                                                                                                       bing - 1045.netrk.net - DESTINATION &      1.1\% \\
+         Bing &                                                                       bing - clickserve.dartsearch.net - ad.doubleclick.net - DESTINATION &      0.6\% \\
+       Google &                                                                                           google - www.googleadservices.com - DESTINATION &     69.8\% \\
+       Google &                                          google - www.googleadservices.com - clickserve.dartsearch.net - ad.doubleclick.net - DESTINATION &     17.0\% \\
+       Google &                                              google - www.googleadservices.com - pixel.everesttech.net - ad.doubleclick.net - DESTINATION &      3.8\% \\
+       Google &                                         google - www.googleadservices.com - monitor.clickcease.com - monitor.clickcease.com - DESTINATION &      3.8\% \\
+       Google &                                                                  google - www.googleadservices.com - monitor.ppcprotect.com - DESTINATION &      1.9\% \\
+       Google &                                   google - www.googleadservices.com - clickserve.dartsearch.net - clickserve.dartsearch.net - DESTINATION &      1.9\% \\
+       Google &                                                                         google - www.googleadservices.com - 3825.xg4ken.com - DESTINATION &      1.9\% \\
+          Ddg &                                                                                                          ddg - www.bing.com - DESTINATION &     79.7\% \\
+          Ddg &                                                         ddg - www.bing.com - clickserve.dartsearch.net - ad.doubleclick.net - DESTINATION &     12.8\% \\
+          Ddg &                                ddg - www.bing.com - clickserve.dartsearch.net - ad.doubleclick.net - monitor.ppcprotect.com - DESTINATION &      3.0\% \\
+          Ddg &                                                                                        ddg - www.bing.com - 6102.xg4ken.com - DESTINATION &      2.3\% \\
+          Ddg &                             ddg - www.bing.com - clickserve.dartsearch.net - clickserve.dartsearch.net - ad.doubleclick.net - DESTINATION &      0.8\% \\
+          Ddg &                                     ddg - www.bing.com - clickserve.dartsearch.net - ad.doubleclick.net - tpt.mediaplex.com - DESTINATION &      0.8\% \\
+          Ddg &                                                                                  ddg - www.bing.com - pixel.everesttech.net - DESTINATION &      0.8\% \\
+    Startpage &                                                                                        startpage - www.googleadservices.com - DESTINATION &     73.3\% \\
+    Startpage &                                       startpage - www.googleadservices.com - clickserve.dartsearch.net - ad.doubleclick.net - DESTINATION &     15.8\% \\
+    Startpage &                                                                                                                   startpage - DESTINATION &      6.3\% \\
+    Startpage &                                                                      startpage - www.googleadservices.com - 6008.xg4ken.com - DESTINATION &      1.4\% \\
+    Startpage &           startpage - www.googleadservices.com - clickserve.dartsearch.net - clickserve.dartsearch.net - ad.doubleclick.net - DESTINATION &      0.9\% \\
+    Startpage &              startpage - www.googleadservices.com - clickserve.dartsearch.net - ad.doubleclick.net - monitor.ppcprotect.com - DESTINATION &      0.5\% \\
+    Startpage & startpage - www.googleadservices.com - clickserve.dartsearch.net - ad.doubleclick.net - t.myvisualiq.net - t.myvisualiq.net - DESTINATION &      0.5\% \\
+    Startpage &                                      startpage - www.googleadservices.com - monitor.clickcease.com - monitor.clickcease.com - DESTINATION &      0.5\% \\
+    Startpage &                                                                         startpage - www.googleadservices.com - ad.atdmt.com - DESTINATION &      0.5\% \\
+    Startpage &                                startpage - www.googleadservices.com - clickserve.dartsearch.net - clickserve.dartsearch.net - DESTINATION &      0.5\% \\
+        Qwant &                                                                                                                       qwant - DESTINATION &     80.0\% \\
+        Qwant &                                                                      qwant - clickserve.dartsearch.net - ad.doubleclick.net - DESTINATION &     10.0\% \\
+        Qwant &                                                                                               qwant - track.effiliation.com - DESTINATION &      3.3\% \\
+        Qwant &                                                                                               qwant - click.linksynergy.com - DESTINATION &      2.7\% \\
+        Qwant &                                                                          qwant - pixel.everesttech.net - ad.doubleclick.net - DESTINATION &      1.3\% \\
+        Qwant &                                                                                      qwant - www.awin1.com - www.zenaps.com - DESTINATION &      1.3\% \\
+        Qwant &                                                                                    qwant - tracking.deepsearch.adlucent.com - DESTINATION &      0.7\% \\
+        Qwant &                                                                                              qwant - monitor.ppcprotect.com - DESTINATION &      0.7\% \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,10 @@
+\begin{tabular}{lllll}
+\toprule
+                           Bing &                          Google &                             Ddg &                       Startpage &                           Qwant \\
+\midrule
+    analytics.tiktok.com (5.7\%) &           www.google.com (6.4\%) &         fls-eu.amazon.fr (9.7\%) & www.google-analytics.com (9.6\%) &        fls-eu.amazon.fr (12.7\%) \\
+            www.bing.com (5.4\%) & www.google-analytics.com (5.5\%) &     analytics.tiktok.com (5.1\%) &           www.google.com (6.7\%) &            www.amazon.fr (4.8\%) \\
+        fls-eu.amazon.fr (5.0\%) & www.googletagmanager.com (4.9\%) & www.google-analytics.com (4.0\%) & www.googletagmanager.com (5.7\%) & www.google-analytics.com (4.6\%) \\
+www.googletagmanager.com (4.3\%) &             bat.bing.com (4.5\%) &             bat.bing.com (4.0\%) &     analytics.tiktok.com (4.2\%) &            ih.adscale.de (4.1\%) \\
+\bottomrule
+\end{tabular}

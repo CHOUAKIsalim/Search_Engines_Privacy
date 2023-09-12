@@ -1,0 +1,12 @@
+\begin{tabular}{lllll}
+\toprule
+                                          Bing &                            Google &                                     Ddg &                  Startpage &                 Qwant \\
+\midrule
+                            r.bing.com (59.6\%) &            www.google.com (64.3\%) &                  duckduckgo.com (59.7\%) & csp.withgoogle.com (52.1\%) & www.qwant.com (78.6\%) \\
+                          www.bing.com (37.9\%) &           www.gstatic.com (20.9\%) &        improving.duckduckgo.com (21.0\%) &  www.startpage.com (47.9\%) &   s.qwant.com (10.3\%) \\
+t.ssl.ak.dynamic.tiles.virtualearth.net (0.8\%) &            play.google.com (2.7\%) & external-content.duckduckgo.com (17.9\%) &                            &  api.qwant.com (6.9\%) \\
+              login.microsoftonline.com (0.7\%) &          fonts.gstatic.com (2.6\%) &             links.duckduckgo.com (1.4\%) &                            &   s1.qwant.com (2.2\%) \\
+                         login.live.com (0.3\%) &            apis.google.com (2.6\%) &                                         &                            &   s2.qwant.com (2.0\%) \\
+                             4.bing.com (0.3\%) & encrypted-tbn0.gstatic.com (2.4\%) &                                         &                            &    f.qwant.com (0.0\%) \\
+\bottomrule
+\end{tabular}
